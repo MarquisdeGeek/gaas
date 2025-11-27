@@ -1,0 +1,18 @@
+{
+  "name": "gaas",
+  "version": "1.0.0",
+  "description": "Grammar as a Service",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "comma-number": "^2.1.0",
+    "html-entities": "^2.6.0",
+    "number-to-words": "^1.2.4",
+    "nummern": "^1.1.0",
+    "pluralize": "^8.0.0"
+  }
+}
